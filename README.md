@@ -1,16 +1,6 @@
-# login_project
+# Catalog App
 
-A new Flutter project.
+Flutter project made during learning
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Special Thanks to iampawan(Codepur) for free course on flutter, You can find it at 
+https://www.youtube.com/watch?v=j-LOab_PzzU&list=RDCMUCFTM1FGjZSkoSPDZgtbp7hA&start_radio=1
